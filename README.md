@@ -1,4 +1,4 @@
-![Web Developer](https://scontent.fjsr8-1.fna.fbcdn.net/v/t1.6435-9/60364166_414920915777364_4011804143738945536_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=e3f864&_nc_ohc=ivHXnDf_7qEAX9Z56gO&_nc_ht=scontent.fjsr8-1.fna&oh=00_AT8e5ZTRTiU07Uyzb0rkUggYh5Otq1vEYSItTF1AuieQyA&oe=620A345D)
+<!-- ![Web Developer](https://scontent.fjsr8-1.fna.fbcdn.net/v/t1.6435-9/60364166_414920915777364_4011804143738945536_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=e3f864&_nc_ohc=ivHXnDf_7qEAX9Z56gO&_nc_ht=scontent.fjsr8-1.fna&oh=00_AT8e5ZTRTiU07Uyzb0rkUggYh5Otq1vEYSItTF1AuieQyA&oe=620A345D) -->
 
 
 ### Hi there 👋, my name is Shanta
